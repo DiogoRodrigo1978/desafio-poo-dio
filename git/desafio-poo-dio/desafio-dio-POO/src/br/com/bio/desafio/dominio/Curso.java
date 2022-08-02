@@ -8,7 +8,7 @@ public class Curso {
     public Curso() {
     }
 
-    public String getTitulo() {
+    public String kgetTitulo() {
         return titulo;
     }
 
